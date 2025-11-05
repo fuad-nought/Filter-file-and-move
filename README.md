@@ -1,3 +1,3 @@
 # Filter-file-and-move
 
-A tool to extract all filenames from a folder and save them to a text file. No Python installation required to run the executable.
+A Python script to extract and consolidate files with specific extensions from nested folder structures. Download and run the .exe file directly in your machine, no python installation is required.
